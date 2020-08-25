@@ -1,0 +1,22 @@
+{
+    "name": "jybtx/wang-editor",
+    "description": "laravel wang editor",
+    "license": "MIT",
+    "type": "library",
+    "keywords": ["wang-editor"],
+    "authors": [
+        {
+            "name": "jybtx",
+            "email": "2574034626@qq.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Jybtx\\WangEditor\\": "src"
+        }
+    }
+}
