@@ -1,12 +1,12 @@
-<h1 align="center"> wangeditor </h1>
+<h1 align="center"> laravel-wang-editor </h1>
 
-<p align="center"> laravel wangeditor.</p>
+<p align="center"> laravel laravel-wang-editor.</p>
 
 
 ## Installing
 
 ```shell
-$ composer require jybtx/wangeditor -vvv
+$ composer require jybtx/laravel-wang-editor -vvv
 ```
 
 ## Usage
@@ -17,8 +17,8 @@ TODO
 
 You can contribute in one of three ways:
 
-1. File bug reports using the [issue tracker](https://github.com/jybtx/wangeditor/issues).
-2. Answer questions or fix bugs on the [issue tracker](https://github.com/jybtx/wangeditor/issues).
+1. File bug reports using the [issue tracker](https://github.com/jybtx/laravel-wang-editor/issues).
+2. Answer questions or fix bugs on the [issue tracker](https://github.com/jybtx/laravel-wang-editor/issues).
 3. Contribute new features or update the wiki.
 
 _The code contribution process is not very formal. You just need to make sure that you follow the PSR-0, PSR-1, and PSR-2 coding guidelines. Any new code contributions must be accompanied by unit tests where applicable._

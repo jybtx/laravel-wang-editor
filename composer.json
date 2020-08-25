@@ -1,9 +1,9 @@
 {
-    "name": "jybtx/wang-editor",
+    "name": "jybtx/laravel-wang-editor",
     "description": "laravel wang editor",
     "license": "MIT",
     "type": "library",
-    "keywords": ["wang-editor"],
+    "keywords": ["wang-editor","editor"],
     "authors": [
         {
             "name": "jybtx",
@@ -11,7 +11,7 @@
         }
     ],
     "require": {
-        "php": ">=5.4.0"
+        "php": ">=7.0.0"
     },
     "minimum-stability": "dev",
     "autoload": {
